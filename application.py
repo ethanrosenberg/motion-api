@@ -12,7 +12,7 @@ instructions = '''
     to the URL (for example: <code>/Thelonious</code>) to say hello to
     someone specific.</p>\n'''
 home_link = '<p><a href="/">Back</a></p>\n'
-footer_text = '</body>\n</html>'
+footer_text = '</body>e</html>'
 
 # EB looks for an 'application' callable by default.
 application = Flask(__name__)
